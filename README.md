@@ -3,7 +3,7 @@ Connecting a Pi to generic 3.2" LCD panel
 
 ## LCD connections
 
-![screenshot](lcd001.jpg)
+![screenshot](lcd002.jpg)
 
 LCD---PI PIN (NOT GPIO NUMBER)
 =============================
