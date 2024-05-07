@@ -39,8 +39,11 @@ Note 2 wires to PI pins 23 and 19
 
 to use..
 Use RaspiOS BULLSEYE.
+
 git clone https://github.com/waveshare/LCD-show.git
+
 cd LCD-show/
+
 sudo ./LCD28-show
 
 Calibrate touchscreen after connecting
