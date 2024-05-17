@@ -51,6 +51,6 @@ After installing if you change this line...
 
 hdmi_cvt 480 320 60 6 0 0 0 to hdmi_cvt 640 480 60 6 0 0 0
 
-you should bdxable to connect a hdmi monitor at the same time 
+you should be able to connect a hdmi monitor at the same time 
 
 Calibrate touchscreen after connecting
