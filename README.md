@@ -19,7 +19,7 @@ T_CLK----23^
 
 SDO(MISO) N/C
 
-LED------1 (3.3v)
+LED------1 (3.3v) with 4.7k in series
 
 SCK------23^
 
