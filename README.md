@@ -46,7 +46,7 @@ cd LCD-show/
 
 sudo ./LCD28-show
 
-After installing if you change this line...
+After installing if you change this line in config.txt....
 
 
 hdmi_cvt 480 320 60 6 0 0 0 to hdmi_cvt 640 480 60 6 0 0 0
